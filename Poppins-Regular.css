@@ -1,0 +1,10 @@
+@font-face {
+    /* 1. Définissez le nom qui apparaîtra dans le menu Mailjet */
+    font-family: 'Poppins-Regular';
+    
+    /* 2. Remplacez "nom-du-fichier.extension" par le nom exact de votre fichier hébergé à l'étape 1 */
+    src: url('https://lucassimonnet89-collab.github.io/fonts/nom-du-fichier.extension') format('woff');
+    
+    font-weight: normal;
+    font-style: normal;
+}
